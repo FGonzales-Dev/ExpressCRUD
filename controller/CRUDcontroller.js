@@ -6,6 +6,7 @@ export const getNotes = async (req, res) => {
 
     res.status(200).json({
       success: true,
+      testing: true,
       notes,
     });
   } catch (error) {
