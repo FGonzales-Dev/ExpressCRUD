@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 mongoose
-  .connect("mongodb+srv://francisgonzales:48DE73GMnWeMkXJ3@socialapp.jwtle.mongodb.net/?retryWrites=true&w=majority&appName=SocialApp", {
+  .connect("mongodb+srv://francisgonzales:9Wk2zxPX61y4cILd@socialapp.jwtle.mongodb.net/?retryWrites=true&w=majority&appName=SocialApp", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
